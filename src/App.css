@@ -89,7 +89,8 @@ header > p {
   letter-spacing: 1.5px;
   color: white;
   background: #01233f;
-  padding: 2px;
+  padding: 2%;
+  border-radius: 15%;
 }
 
 .meme-form > input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
