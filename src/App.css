@@ -23,12 +23,6 @@ header > img {
   height: 90%;
 }
 
-header > p {
-  font-family: VT323, Arial, Helvetica, sans-serif;
-  color: rgb(255, 255, 255);
-  font-size: 70px;
-}
-
 .meme {
   position: relative;
   width: 90%;
