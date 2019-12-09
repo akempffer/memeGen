@@ -3,10 +3,6 @@ import React from "react"
 function Header() {
     return (
         <header>
-            <img 
-                src="\img\MemeCat.png" 
-                alt="babyYoda"
-            />
             <p>Meme Generator</p>
         </header>
     )
