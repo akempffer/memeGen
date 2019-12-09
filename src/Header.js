@@ -5,7 +5,7 @@ function Header() {
         <header>
             <img 
                 src="\img\MemeCat.png" 
-                alt="Cat?"
+                alt="babyYoda"
             />
             <p>Meme Generator</p>
         </header>

@@ -12,8 +12,8 @@ header {
   display: flex;
   align-items: center;
   background: #141318;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #2a0845, #373543);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #2a0845, #373543); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(to right, #010d33, #373543);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #010d33, #373543); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 header > img {
@@ -24,7 +24,7 @@ header > img {
 header > p {
   font-family: VT323, monospace;
   color: rgb(255, 255, 255);
-  font-size: 50px;
+  font-size: 70px;
   margin-left: 60px;
 }
 
@@ -47,7 +47,7 @@ header > p {
   margin: 15px 0;
   padding: 0 5px;
   font-family: impact, sans-serif;
-  font-size: 2em;
+  font-size: 3em;
   text-transform: uppercase;
   color: rgb(255, 255, 255);
   letter-spacing: 1px;
@@ -90,6 +90,7 @@ header > p {
   letter-spacing: 1.5px;
   color: white;
   background: #01233f;
+  padding: 2px;
 }
 
 .meme-form > input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
