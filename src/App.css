@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  background-color: rgb(162, 236, 233);
+  background-color: rgb(215, 241, 241);
 }
 
 header {
@@ -15,6 +15,7 @@ header {
   font-family: VT323, Arial, Helvetica, sans-serif;
   color: rgb(255, 255, 255);
   font-size: 70px;
+  opacity: .8;
 }
 
 header > img {
@@ -54,7 +55,6 @@ header > img {
       0 -2px 0 #000,
       -2px 0 0 #000,
       2px 2px 5px #000;
-  border-radius: 15%;
 }
 
 .meme > .bottom {
@@ -70,6 +70,8 @@ header > img {
   margin: 20px auto;
   display: flex;
   justify-content: space-between;
+  border-radius: 15%;
+  opacity: .8;
 }
 
 .meme-form > input {
